@@ -11,7 +11,7 @@
     "chartjs-adapter-date-fns": "^2.0.0",
     "chartjs-adapter-moment": "^1.0.0",
     "chartjs-plugin-datalabels": "^2.0.0",
-    "chartjs-plugin-trendline": "jmm13/chartjs-plugin-trendline#Chartjs-3.x-support",
+    "chartjs-plugin-trendline": "YaNokk/chartjs-plugin-trendline#a1d3bd3cb4578c276a8e020c3738a0de70dd4387",
     "date-fns": "^2.23.0",
     "moment": "^2.29.1",
     "react": "^17.0.2",
