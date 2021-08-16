@@ -1,0 +1,38 @@
+.color{
+    width: 30px;
+    height: 20px;
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.cell_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 25%;
+}
+.label_wrapper{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.text{
+    text-align: center;
+}
+table {
+    border-radius: 10px !important;
+    overflow: hidden !important;
+}
+
+table thead tr th{
+    background-color: #E5EBFF !important;
+}
+
+table tr:nth-child(even) {
+    background-color: #F6F6F6 !important;
+}
+
+table tr:nth-child(odd) {
+    background-color: #ECEEF2 !important;
+}
